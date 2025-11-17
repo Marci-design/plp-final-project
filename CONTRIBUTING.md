@@ -6,7 +6,7 @@ Thank you for your interest in contributing to TransitFlow! This document explai
 
 1. Fork the repository and clone your fork:
 
-   git clone https://github.com/Marci-design>/transitflow.git
+   git clone https://github.com/Marci-design/plp-final-project.git
 
 2. Create a branch for your change:
 

@@ -44,21 +44,21 @@ TransitFlow is a smart mobility app built to modernize and bring predictability 
 - Tourists and new residents who need guidance navigating non-digital transport systems.
 - Transport operators and planners who want data on route performance, peak times, and revenue.
 
-## Technology stack (assumed)
+## Technology stack 
 
-- Frontend: React Native or Flutter (cross-platform mobile apps)
-- Backend: Node.js or Python (REST API)
+- Frontend: React Native (cross-platform mobile apps)
+- Backend: Node.js (REST API)
 - Database: Firestore (real-time sync for vehicle locations and user data)
-- Mapping: Google Maps Platform or OpenStreetMap
+- Mapping: Google Maps Platform 
 
-> Note: The implementation choices above are illustrative. Replace with actual technologies used in your project.
+
 
 ## Getting started
 
 ### Prerequisites
 
 - A modern smartphone (Android 7.0+ or iOS 13.0+ for mobile app testing)
-- Access to a local mobile money service for payment integration (if testing payments)
+- Access to a local mobile money service for payment integration 
 
 ### Installation (mobile)
 
@@ -88,4 +88,3 @@ Built with ❤️ for African cities.
 
 This project is licensed under the MIT License — see the `LICENSE` file for details. Replace the copyright holder in `LICENSE` with the correct name.
 
-If you use third-party map data or external libraries (Google Maps, OpenStreetMap, etc.), make sure to follow their attribution and terms of service and acknowledge them here.
