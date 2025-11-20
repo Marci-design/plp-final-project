@@ -46,27 +46,10 @@ TransitFlow is a smart mobility app built to modernize and bring predictability 
 
 ## Technology stack 
 
-- Frontend: React Native (cross-platform mobile apps)
+- Frontend: Expo
 - Backend: Node.js (REST API)
-- Database: Firestore (real-time sync for vehicle locations and user data)
-- Mapping: Google Maps Platform 
-
-
-
-## Getting started
-
-### Prerequisites
-
-- A modern smartphone (Android 7.0+ or iOS 13.0+ for mobile app testing)
-- Access to a local mobile money service for payment integration 
-
-### Installation (mobile)
-
-1. Download TransitFlow from Google Play Store or Apple App Store (when published).
-2. Sign up with your phone number and verify via OTP.
-3. Link your preferred mobile money account to the in-app wallet (optional but recommended).
-
-If you're a developer or contributor, include specific setup instructions in a separate developer README or CONTRIBUTING.md with steps to run the backend, emulator, or local mobile app.
+- Database: Mongodb
+- Mapping: Open Street Maps
 
 ## Contributing
 
@@ -84,7 +67,7 @@ For bug reports, feature requests, or support inquiries, contact: support@transi
 
 ## License & credits
 
-Built with ❤️ for African cities.
+Built with love for  cities.
 
 This project is licensed under the MIT License — see the `LICENSE` file for details. Replace the copyright holder in `LICENSE` with the correct name.
 
